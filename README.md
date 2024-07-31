@@ -1,6 +1,5 @@
 # 📚 NextGenius: Algoritmos em Golang, C e Python
 
-![NextGenius Logo](path/to/nextgenius_logo.png)
 
 Este repositório contém uma coleção de algoritmos básicos implementados em três linguagens de programação diferentes: Golang, C e Python. O objetivo é comparar a curva de aprendizagem de cada linguagem e escolher a melhor opção para ensinar alunos em um projeto de curso gratuito, chamado **NextGenius**.
 
